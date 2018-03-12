@@ -32,7 +32,7 @@
    tests:
      stage: test
      tags:
-       - ipa
+       - android
      script:
        - bundle exec fastlane test
    ```
