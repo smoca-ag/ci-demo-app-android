@@ -1,0 +1,16 @@
+variables:
+  LC_ALL: "en_US.UTF-8"
+  LANG: "en_US.UTF-8"
+
+before_script:
+  - bundle install
+
+stages:
+  - test
+
+tests:
+  stage: test
+  tags:
+    - ipa
+  script:
+    - bundle exec fastlane test

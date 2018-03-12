@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo-Android</string>
+    <string name="geight_in_cm">Grösse (in cm)</string>
+    <string name="weight_in_kg">Gewicht (in kg)</string>
+    <string name="calculate">Berechnen</string>
+    <string name="bmi">BMI:</string>
+</resources>
