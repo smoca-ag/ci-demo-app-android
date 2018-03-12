@@ -1,5 +1,11 @@
 # Project Setup Android
 
+This document will provide instructions on how to setup a Android Project so that it will run in a Gitlab-CI Pipeline.
+
+Instructions on how to setup Gitlab can be found here: https://github.com/smoca-ag/ci-demo-app-readme
+
+Setup for iOS: https://github.com/smoca-ag/ci-demo-app-ios
+
 1. Open a Terminal and navigate to the project and run:
 
    ```
